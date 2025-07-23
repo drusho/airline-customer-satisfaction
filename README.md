@@ -1,20 +1,25 @@
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"></a>
 
+</p>
 
-## Airline Customer Satisfaction: A Data Engineering Project
+# Airline Customer Satisfaction: A Data Science Project
 
 This project showcases an end-to-end data engineering workflow, from data ingestion and cleaning to predictive modeling. The goal is to identify the key factors that contribute to airline customer satisfaction using a logistic regression model.
 
 ---
 ## Table of Contents
-- [Airline Customer Satisfaction: A Data Engineering Project](#airline-customer-satisfaction-a-data-engineering-project)
-- [Table of Contents](#table-of-contents)
-- [Project Overview](#project-overview)
-- [Data Source](#data-source)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Limitations](#limitations)
-- [Future Work](#future-work)
-- [Tech Stack \& Skills Demonstrated](#tech-stack--skills-demonstrated)
+- [Airline Customer Satisfaction: A Data Science Project](#airline-customer-satisfaction-a-data-science-project)
+  - [Table of Contents](#table-of-contents)
+  - [Project Overview](#project-overview)
+  - [Data Source](#data-source)
+  - [Methodology](#methodology)
+  - [Results](#results)
+  - [Limitations](#limitations)
+  - [Future Work](#future-work)
+  - [Tech Stack \& Skills Demonstrated](#tech-stack--skills-demonstrated)
 
 ---
 ## Project Overview
